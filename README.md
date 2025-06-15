@@ -1,4 +1,4 @@
-Real-Time Chat Application
+# Real-Time Chat Application
 A modern, real-time chat application built using Spring Boot, WebSocket, and Thymeleaf. This application allows users to send and receive messages instantly in a group chat environment, leveraging WebSocket for bidirectional communication and Thymeleaf for dynamic HTML rendering.
 
 Features
